@@ -2,7 +2,7 @@
 ### Proyecto final de bootcamp fullstack
 Proyecto final de bootcamp: https://appetitcomite.netlify.app/init
 ### Proyectos frontendmentor nivel intermedio:
-Sección de un producto de un e-commerce (en proceso): https://deft-centaur-514825.netlify.app/ <br>
+Sección de un producto de un e-commerce: https://deft-centaur-514825.netlify.app/ <br>
 Página interactiva de comentarios: https://visionary-pony-68063e.netlify.app/<br>
 ### Proyectos frontendmentor nivel junior:
 Gráfico de gastos: https://snazzy-crostata-75f69b.netlify.app/<br>
