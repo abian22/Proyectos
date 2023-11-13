@@ -2,7 +2,7 @@
 ### Proyecto final de bootcamp fullstack
 Proyecto final de bootcamp: https://appetitcomite.netlify.app/init
 ### Proyectos frontendmentor nivel intermedio:
-Piedra papel o tijeras (en proceso): https://sweet-quokka-370530.netlify.app
+Piedra papel o tijeras: https://sweet-quokka-370530.netlify.app
 ### Proyectos frontendmentor nivel intermedio:
 Rastreo ip: https://sunny-pavlova-6136b7.netlify.app/ <br>
 Cuenta atrás: https://soft-bubblegum-202fb6.netlify.app/  <br>
